@@ -1,6 +1,15 @@
 
-# 📸 Ứng Dụng Nhận Diện Khuôn Mặt bằng PCA
+# 📸 Ứng Dụng Nhận Diện Khuôn Mặt bằng PCA [NHÓM 19 - L05]
 
+## Tác giả:
+1. Nguyễn Đăng Gia Đạo
+2. Bùi Trung Hải
+3. Hà Ngọc Khải
+4. Chu Trọng Khánh
+5. Văn Nguyễn Hoài Oanh
+6. Phạm Viết Trường
+7. Ngô Diệu Vy
+   
 ## 🧠 Giới thiệu
 
 Đây là một ứng dụng nhận diện khuôn mặt thời gian thực sử dụng **Principal Component Analysis (PCA)** để so sánh khuôn mặt từ webcam với tập dữ liệu mẫu đã lưu. Giao diện đồ họa được xây dựng bằng Tkinter và thư viện xử lý ảnh sử dụng OpenCV.
